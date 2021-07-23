@@ -1,0 +1,21 @@
+.cat1{
+    background-color: orange;
+}
+.cat2, .carouselcolor{
+    background-color: rgb(221, 107, 217);
+
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.players:hover{
+    transform: scale(1.3);
+    transition: width 2s, height 2s, transform 2s;
+    cursor: pointer;
+}
